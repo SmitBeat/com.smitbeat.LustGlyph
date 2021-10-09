@@ -1,0 +1,23 @@
+{
+	"Wallpapers":
+        [
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/01.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/01.Wallpaper.jpg",
+				"name": "Wallpaper 1"
+			},
+			{
+		        "author": "Taken from github",
+			    "url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/02.Wallpaper.jpg",
+			    "thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/02.Wallpaper.jpg",
+			    "name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/03.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.LustGlyph/main/03.Wallpaper.jpg",
+				"name": "Wallpaper 3"							
+			}								
+		]
+}
